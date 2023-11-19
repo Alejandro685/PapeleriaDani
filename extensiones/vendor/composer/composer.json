@@ -1,0 +1,15 @@
+{
+    "name": "PapeleriaDanely",
+    "description": "sistema de ventas",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Alejandro",
+            "email": "Alejandro@gmail.com"
+        }
+    ],
+    "require": {
+        // Aquí van las dependencias requeridas por tu proyecto
+      "vendor/package-name": "^1.0"
+    }
+}
